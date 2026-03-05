@@ -1,0 +1,7 @@
+../Core/hydraulic/hydraulic_sm.c:41:6:hydraulic_sm_init	1
+../Core/hydraulic/hydraulic_sm.c:47:13:hydraulic_sm_get_state	1
+../Core/hydraulic/hydraulic_sm.c:52:9:hydraulic_sm_get_error_flags	1
+../Core/hydraulic/hydraulic_sm.c:59:6:hydraulic_sm_update	18
+../Core/hydraulic/hydraulic_sm.c:139:13:safety_check	6
+../Core/hydraulic/hydraulic_sm.c:161:13:outputs_apply	5
+../Core/hydraulic/hydraulic_sm.c:203:13:pwm_set_percent	1

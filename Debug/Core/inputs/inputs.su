@@ -1,0 +1,4 @@
+../Core/inputs/inputs.c:37:13:debounce_update	16	static
+../Core/inputs/inputs.c:59:6:inputs_init	4	static
+../Core/inputs/inputs.c:73:6:inputs_update	16	static
+../Core/inputs/inputs.c:93:15:inputs_get	16	static

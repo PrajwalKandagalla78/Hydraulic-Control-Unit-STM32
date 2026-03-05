@@ -1,0 +1,5 @@
+../Core/can_if/can_if.c:30:6:can_if_init	48	static
+../Core/can_if/can_if.c:62:6:can_if_process_rx	16	static
+../Core/can_if/can_if.c:102:6:can_if_periodic_tx	40	static
+../Core/can_if/can_if.c:125:9:can_if_up_cmd	4	static
+../Core/can_if/can_if.c:130:9:can_if_down_cmd	4	static

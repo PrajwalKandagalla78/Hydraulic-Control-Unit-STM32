@@ -1,0 +1,9 @@
+../Core/sensors/sensors.c:40:14:adc_to_voltage	16	static
+../Core/sensors/sensors.c:47:14:calc_bus_voltage	24	static
+../Core/sensors/sensors.c:53:14:calc_current	24	static
+../Core/sensors/sensors.c:59:14:calc_pressure	24	static
+../Core/sensors/sensors.c:68:14:calc_level	16	static
+../Core/sensors/sensors.c:73:14:calc_ntc_temp	40	static
+../Core/sensors/sensors.c:91:6:sensors_init	4	static
+../Core/sensors/sensors.c:96:6:sensors_update	8	static
+../Core/sensors/sensors.c:106:15:sensors_get	24	static
